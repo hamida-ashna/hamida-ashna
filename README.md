@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Hamida "Ashna"
-
+###                                          Hi there 👋 I'm Hamida "Ashna"
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Full-stack Web developer and SAP abap developer
 
 - 🎓 I obtained my bachelor's degree in Computer Science (Information System) from Kabul University, Afghanistan.
