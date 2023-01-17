@@ -1,6 +1,7 @@
 #                                         **Hi there 👋, I'm Hamida** 
 
 ![Green and White Technology LinkedIn Banner](https://user-images.githubusercontent.com/75003524/213009186-0597d1b7-f355-40f4-9d06-6253f5fd8afa.png)
+I am a Full-stack Web developer abd SAP ABAP developer. I am passionate about software development, and I am always looking for opportunities to learn new things and grow as a developer. My goal is to improve my skills and make a positive impact in the tech industry.
 
 - 🎓 I obtained my bachelor's degree in Computer Science (Information System) from Kabul University, Afghanistan.
 - 🔭 I’m currently working at Kit Runner as a software developer
