@@ -1,6 +1,7 @@
 #                                         **Hi there 👋, I'm Hamida "Ashna"** 
 
 ### Full-stack Web developer and SAP ABAP developer 💻
+![Green and White Technology LinkedIn Banner](https://user-images.githubusercontent.com/75003524/213009186-0597d1b7-f355-40f4-9d06-6253f5fd8afa.png)
 
 - 🎓 I obtained my bachelor's degree in Computer Science (Information System) from Kabul University, Afghanistan.
 - 🔭 I’m currently working at Kit Runner as a software developer
