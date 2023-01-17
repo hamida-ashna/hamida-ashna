@@ -1,4 +1,4 @@
-#                                          **Hi there 👋, I'm Hamida "Ashna"**
+#                                        <center>  **Hi there 👋, I'm Hamida "Ashna"** </center>
 
 ### Full-stack Web developer and SAP abap developer
 
