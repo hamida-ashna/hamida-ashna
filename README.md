@@ -9,7 +9,7 @@ I am a Full-stack Web developer abd SAP ABAP developer. I am passionate about so
 - 🌱 I’m currently learning Machine Learning
 - ✉️ You can contact me at hamida.ashna2000@gmail.com
 
-### Languages and Tools: 
+### Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)    
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
