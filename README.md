@@ -10,7 +10,7 @@ I am a Full-stack Web developer abd SAP ABAP developer. I am passionate about so
 - ✉️ You can contact me at hamida.ashna2000@gmail.com
 
 ### Skills
-<!-- ![lo1](https://user-images.githubusercontent.com/75003524/212998828-5e940c46-bfa3-45db-b799-4a40940ca68d.png?style=flat&logo=react&width=200px&height=200px) -->
+[lo1](https://user-images.githubusercontent.com/75003524/212998828-5e940c46-bfa3-45db-b799-4a40940ca68d.png?style=flat&logo=react&width="200px"&height="200px") 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)    
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
