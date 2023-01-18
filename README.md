@@ -37,6 +37,5 @@ I am a Full-stack Web developer abd SAP ABAP developer. I am passionate about so
 Here are some ideas to get you started:
 
 
-
 -->
 
