@@ -18,7 +18,6 @@ I am a Full-stack Web developer abd SAP ABAP developer. I am passionate about so
 <code><img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/75003524/213022308-69c7ec13-7dec-49a5-b979-67232d55bae4.png"></code>
 
-
 ### My GitHub Stats
 <picture>
 <source 
